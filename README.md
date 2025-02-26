@@ -23,7 +23,7 @@ The pipeline is designed to:
 
 ## Architecture
 
-    ![Project Architecture](RedditDataPipeline-Architecture.png)
+![Project Architecture](RedditDataPipeline-Architecture.png)
 
 - Reddit API: Source of the data.
 - Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
