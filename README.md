@@ -23,7 +23,7 @@ The pipeline is designed to:
 
 ## Architecture
 
-    ![Project Architecture](https://myoctocat.com/assets/images/base-octocat.svg)
+    ![Project Architecture](RedditDataPipeline-Architecture.png)
 
 - Reddit API: Source of the data.
 - Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
