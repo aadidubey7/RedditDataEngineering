@@ -1,0 +1,8 @@
+.venv
+config
+plugins
+tests
+utils/conf.py
+logs
+.idea
+__pycache__
