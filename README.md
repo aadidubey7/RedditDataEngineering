@@ -25,6 +25,7 @@ The pipeline is designed to:
 
 ![Project Architecture](RedditDataPipeline-Architecture.png)
 
+### The project is designed with the following components:
 - Reddit API: Source of the data.
 - Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
 - PostgreSQL: Temporary storage and metadata management.
